@@ -1,5 +1,5 @@
-## Summary
-
+## Profile
+Highly motivated Junior C# Developer, I gained experience of developing desktop and mobile applications during education at Belarusian State Technological University and while working on my own projects. I am looking for place where i can get experience of developing to improve my coding skills.
 
 ## Skills
 - **Ability in C# with understanding of object oriented development**
@@ -9,4 +9,4 @@
 
 ## Education
 ### **Belarusian State Technological Univerty**     ####   
-#### **Bachelor's Degree in Information Technology, 2017** #####
+#### **Bachelor of Science in Information Systems and Technologies, 2017** #####
