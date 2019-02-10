@@ -9,4 +9,4 @@
 
 ## Education
 #### **Belarusian State Technological Univerty**     ####   
-- Bachelor's Degree in Information Technology, 2017 
+- **Bachelor's Degree in Information Technology, 2017** 
