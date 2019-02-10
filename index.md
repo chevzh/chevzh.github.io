@@ -2,5 +2,5 @@
 
 
 ## Education
-#### **Belarusian State Technological Univerty **     ####   
+#### **Belarusian State Technological Univerty**     ####   
 ##### **-Bachelor's Degree in Information Technology**
