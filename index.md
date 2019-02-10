@@ -2,4 +2,4 @@
 
 ## Education
 #### Belarusian State Technological Univerty         
-##### Bachelor Degree in Information Technology
+##### Bachelor's Degree in Information Technology
