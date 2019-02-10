@@ -8,5 +8,5 @@
 - **Ability to quickly learn to use new tools**
 
 ## Education
-#### **Belarusian State Technological Univerty**     ####   
+### **Belarusian State Technological Univerty**     ####   
 - **Bachelor's Degree in Information Technology, 2017** 
