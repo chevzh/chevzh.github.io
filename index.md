@@ -1,4 +1,5 @@
-## Personal Info
+## Summary
+
 
 ## Skills
 - **Ability in C# with understanding of object oriented development**
@@ -8,4 +9,4 @@
 
 ## Education
 #### **Belarusian State Technological Univerty**     ####   
-##### - Bachelor's Degree in Information Technology, 2017
+##### - Bachelor's Degree in Information Technology, 2017 #####
