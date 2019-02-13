@@ -10,3 +10,9 @@ Highly motivated Junior C# Developer, I gained experience of developing desktop 
 ## Education
 ### **Belarusian State Technological Univerty**     ####   
 #### **Bachelor of Science in Information Systems and Technologies, 2017** #####
+
+## Completed Tasks
+- <a href="https://github.com/chevzh/FancyCalc">FancyCalc</a>
+- <a href="https://github.com/chevzh/PadawansTask1">PadawansTask1</a>
+- <a href="https://github.com/chevzh/PadawansTask2">PadawansTask2</a>
+- <a href="https://github.com/chevzh/PadawansTask3">PadawansTask3</a>
