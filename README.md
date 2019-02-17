@@ -19,4 +19,5 @@ Highly motivated Junior C# Developer, I gained experience of developing desktop 
 - <a href="https://github.com/chevzh/PadawansTask4">PadawansTask4</a>
 - <a href="https://github.com/chevzh/PadawansTask5">PadawansTask5</a>
 - <a href="https://github.com/chevzh/PadawansTask6">PadawansTask6</a>
+- <a href="https://github.com/chevzh/PadawansTask7">PadawansTask7</a>
 - <a href="https://github.com/chevzh/PadawansTask13">PadawansTask13</a>
