@@ -12,6 +12,10 @@ Highly motivated Junior C# Developer, I gained experience of developing desktop 
 #### **Bachelor of Science in Information Systems and Technologies, 2017** #####
 
 ## Completed Tasks
+### Codewars
+- <a href="https://www.codewars.com/users/chevzh">Profile</a>
+
+###Padawans Tasks
 - <a href="https://github.com/chevzh/FancyCalc">FancyCalc</a>
 - <a href="https://github.com/chevzh/PadawansTask1">PadawansTask1</a>
 - <a href="https://github.com/chevzh/PadawansTask2">PadawansTask2</a>
