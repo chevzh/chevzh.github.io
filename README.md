@@ -15,6 +15,8 @@ Highly motivated Junior C# Developer, I gained experience of developing desktop 
 ### Codewars ###
 - <a href="https://www.codewars.com/users/chevzh">Profile</a>
 - <a href="https://github.com/chevzh/ConvertHexStringToRgb">Task 8 - Convert Hex String To RGB</a>
+- <a href="https://github.com/chevzh/ManipulateURLParameters/tree/master/Manipulate%20URL%20Parameters">Task 13 - Manipulate URL parameters</a>
+
 
 ### Padawans Tasks 
 - <a href="https://github.com/chevzh/FancyCalc">FancyCalc</a>
