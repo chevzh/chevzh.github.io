@@ -35,3 +35,7 @@ Highly motivated Junior C# Developer, I gained experience of developing desktop 
 
 ### Basic Collections 
 - <a href="https://github.com/chevzh/Fibonacci-Numbers">The first 20 numbers in the sequence</a>
+
+### Udemy C# Basics
+- <a href="https://github.com/chevzh/TicTacToe">Tic Tac Toe Game</a>
+
